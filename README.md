@@ -1,1 +1,0 @@
-# secle-info-blog
