@@ -18,7 +18,7 @@ tags = ['criptomonedas', 'blockchain', 'hackeo']
     -   🗝️ [Puntos Clave](#-puntos-clave)
     -   🚨 [Importancia de estas Medidas](#-importancia-de-estas-medidas)
 -   📚 [Lecciones Aprendidas](#-lecciones-aprendidas)
--   🕵️‍♂️ [Recompensa por Incidente de Seguridad de Bittensor](#-Recompensa-por-Incidente-de-Seguridad-de-Bittensor)
+-   🕵️‍♂️ [Recompensa por Incidente de Seguridad de Bittensor](#-recompensa-por-incidente-de-seguridad-de-bittensor)
 -   📝 [Conclusión](#-conclusión)
 ---
 Nota: Esto es una investigación completamente independiente.
