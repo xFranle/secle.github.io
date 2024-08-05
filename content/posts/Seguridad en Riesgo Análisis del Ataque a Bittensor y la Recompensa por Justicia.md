@@ -12,14 +12,14 @@ tags = ['criptomonedas', 'blockchain', 'hackeo']
 -   🕵️‍♂️ [Detalles Del Ataque](#️️-detalles-del-ataque)
 -   ⏳ [Cronología](#-cronología-del-incidente)
 -   🧬 [Código Malicioso](#-código-malicioso)
--   🔍 [Análisis del Comportamiento Anómalo]()
-    -   ⚠️ [Indicadores de Compromiso]()
--   🛡️ [Medidas de Mitigación Adoptadas]()
-    -   🗝️ [Puntos Clave]()
-    -   🚨 [Importancia de estas Medidas]()
--   📚 [Lecciones Aprendidas]()
--   🕵️‍♂️ [Recompensa por Incidente de Seguridad de Bittensor]()
--   📝 [Conclusión]()
+-   🔍 [Análisis del Comportamiento Anómalo](#-análisis-del-comportamiento-anómalo)
+    -   ⚠️ [Indicadores de Compromiso](#-indicadores-de-compromiso)
+-   🛡️ [Medidas de Mitigación Adoptadas](#-medidas-de-mitigación-adoptadas)
+    -   🗝️ [Puntos Clave](#-puntos-clave)
+    -   🚨 [Importancia de estas Medidas](#-importancia-de-estas-medidas)
+-   📚 [Lecciones Aprendidas](#-lecciones-aprendidas)
+-   🕵️‍♂️ [Recompensa por Incidente de Seguridad de Bittensor](#-Recompensa-por-Incidente-de-Seguridad-de-Bittensor)
+-   📝 [Conclusión](#-conclusión)
 ---
 Nota: Esto es una investigación completamente independiente.
 
