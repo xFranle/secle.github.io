@@ -9,7 +9,7 @@ tags = ['criptomonedas', 'blockchain', 'hackeo']
 ---
 -   🧠 ¿Qué es Bittensor (TAO) y cómo funciona?
 -   📋 [Resumen](#-resumen)
--   🕵️‍♂️ [Detalles Del Ataque](#️️-detalles-del-ataque)
+-   🕵️‍♂️ [Detalles del Ataque](#️️-detalles-del-ataque)
 -   ⏳ [Cronología](#-cronología-del-incidente)
 -   🧬 [Código Malicioso](#-código-malicioso)
 -   🔍 [Análisis del Comportamiento Anómalo](#-análisis-del-comportamiento-anómalo)
