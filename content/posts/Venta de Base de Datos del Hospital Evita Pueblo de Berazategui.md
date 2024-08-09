@@ -1,4 +1,10 @@
-# 🚨 Venta de Base de Datos del Hospital Evita Pueblo de Berazategui
++++
+title = '🚨 Venta de Base de Datos del Hospital Evita Pueblo de Berazategui'
+date = 2024-08-09
+draft = false
+author = 'Franle'
+tags = ['Ciberseguridad', 'filtracion', 'hackeo', 'argentina']
++++
 
 ---
 
