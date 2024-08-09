@@ -36,8 +36,6 @@ Además, MimiChan proporcionó un enlace para acceder al archivo y mencionó que
 
 _"For those who want the whole database I leave the sql error here and I also leave the link."_
 
-![Enlace proporcionado por MimiChan para acceder al archivo y explotar el error SQL](https://prnt.sc/x-AoxJm-BwMt)
-
 ## 🕵️‍♂️ Cómo Ocurrió la Filtración
 
 El anuncio de MimiChan sugiere que la base de datos fue comprometida mediante la explotación de una vulnerabilidad de **SQL Injection**. Este tipo de ataque ocurre cuando un atacante inserta o "inyecta" una consulta SQL maliciosa en los datos de entrada de una aplicación, permitiendo el acceso no autorizado a la base de datos.
