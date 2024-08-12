@@ -56,8 +56,7 @@ _"This data has been leaked by me. 2 csv files that contain data from 'viaje de 
 
 Este mensaje confirma la responsabilidad del ataque y la filtración de datos, los cuales están relacionados con estudiantes argentinos que participaron en el viaje de egresados del año 2023.
 
-![Egresados 2023.](https://i.ibb.co/9Gmtmxr/Argentina-Egresados.png)
-
+{{ $image := resources.GetRemote "https://i.ibb.co/9Gmtmxr/Argentina-Egresados.png" }}
 
 ---
 
@@ -99,7 +98,8 @@ Estas medidas resaltan la importancia de adoptar un enfoque proactivo en la cibe
 
 ---
 
-Disclaimer
+## Disclaimer
+
 La información presentada en este artículo tiene fines puramente informativos y educativos. No se han divulgado datos personales ni información sensible de manera que pueda identificar a individuos específicos. Todos los detalles sensibles han sido debidamente anonimizados para proteger la privacidad de los afectados.
 
 Este blog no promueve ni respalda ninguna actividad ilegal, y se esfuerza por concienciar sobre la importancia de la ciberseguridad y la protección de datos personales. Cualquier uso indebido de la información aquí compartida es responsabilidad exclusiva del individuo que lo lleve a cabo.
