@@ -56,6 +56,8 @@ _"This data has been leaked by me. 2 csv files that contain data from 'viaje de 
 
 Este mensaje confirma la responsabilidad del ataque y la filtración de datos, los cuales están relacionados con estudiantes argentinos que participaron en el viaje de egresados del año 2023.
 
+![egresados-2023](/static/argentina-egresados.png)
+
 ---
 
 ## 🕵️‍♂️ Análisis de la Filtración
