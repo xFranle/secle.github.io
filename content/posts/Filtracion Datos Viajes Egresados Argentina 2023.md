@@ -1,5 +1,5 @@
 +++
-title = 'Filtración de Datos: "Viaje de Egresados Argentina 2023" expone información sensible de estudiantes y padres'
+title = 'Filtración de Datos: "Viaje de Egresados Argentina 2023" Expone Información Sensible de Estudiantes y Padres'
 date = 2024-08-12
 draft = false
 author = 'Franle'
