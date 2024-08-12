@@ -3,6 +3,10 @@ languageCode: 'es-AR'
 title: 'SecLe'
 theme: 'PaperMod'
 
+module:
+  imports:
+  - path: github.com/hugomods/images
+
 params:
   env: production
   ShowReadingTime: true
