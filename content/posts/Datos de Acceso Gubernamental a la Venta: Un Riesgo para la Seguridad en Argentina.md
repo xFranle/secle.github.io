@@ -9,12 +9,12 @@ tags = ['filtracion', 'argentina', 'hackeo']
 ---
 
 ## 📋 Índice
-- 🔍 [Descripción del Incidente](#🔍-descripción-del-incidente)
-- 🛡️ [Información Comprometida](#🛡️-información-comprometida)
-- 🛑 [Detalles del Anuncio](#🛑-detalles-del-anuncio)
-- 🕵️‍♂️ [Análisis de la Filtración](#🕵️‍♂️-análisis-de-la-filtración)
-- ⚠️ [Impacto y Riesgos Potenciales](#⚠️-impacto-y-riesgos-potenciales)
-- ✅ [Medidas Preventivas y Recomendaciones](#✅-medidas-preventivas-y-recomendaciones)
+- 🔍 [Descripción del Incidente](#-descripci%C3%B3n-del-incidente)
+- 🛡️ [Información Comprometida](#-informaci%C3%B3n-comprometida)
+- 🛑 [Detalles del Anuncio](#-detalles-del-anuncio)
+- 🕵️‍♂️ [Análisis de la Filtración](#-an%C3%A1lisis-de-la-filtraci%C3%B3n)
+- ⚠️ [Impacto y Riesgos Potenciales](#-impacto-y-riesgos-potenciales)
+- ✅ [Medidas Preventivas y Recomendaciones](#-medidas-preventivas-y-recomendaciones)
 
 ---
 
