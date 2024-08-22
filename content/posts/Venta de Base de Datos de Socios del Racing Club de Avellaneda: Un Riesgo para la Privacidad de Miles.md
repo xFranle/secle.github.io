@@ -1,5 +1,5 @@
 +++
-title = 'Filtración de Datos: "Venta de Base de Datos de Socios del Racing Club de Avellaneda: Un Riesgo para la Privacidad de Miles'
+title = 'Venta de Base de Datos de Socios del Racing Club de Avellaneda: Un Riesgo para la Privacidad de Miles'
 date = 2024-08-22
 draft = false
 author = 'Franle'
