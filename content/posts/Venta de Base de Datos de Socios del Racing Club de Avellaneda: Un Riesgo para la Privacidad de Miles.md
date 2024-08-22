@@ -51,6 +51,8 @@ _"data from 211057 socios of racing club argentina"_
 
 El actor de amenazas también dejó un enlace a una imagen alojada en un servidor de almacenamiento en la nube, mostrando un sample de los datos comprometidos. Esta muestra incluye información detallada de los socios, lo que demuestra la gravedad de la exposición.
 
+![racing-2024](https://i.ibb.co/JHKmrRc/racing.png)
+
 La base de datos está disponible para la compra por **5 créditos**, lo que subraya la facilidad con la que información tan sensible puede ser adquirida en el mercado clandestino. Este hecho es especialmente alarmante dado el bajo coste y la alta accesibilidad de estos datos.
 
 ---
