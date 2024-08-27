@@ -9,16 +9,20 @@ tags = ['filtracion', 'Meow Leaks', 'hackeo', 'Ransomware']
 ---
 
 ## Índice
-1. 🔍 [Descripción del Incidente](#descripción-del-incidente)
-2. 🛡️ [Información Comprometida](#información-comprometida)
-3. 🛑 [Detalles del Anuncio](#detalles-del-anuncio)
-4. 🕵️‍♂️ [Análisis de la Filtración](#análisis-de-la-filtración)
-5. ⚠️ [Impacto y Riesgos Potenciales](#impacto-y-riesgos-potenciales)
-6. ✅ [Medidas Preventivas y Recomendaciones](#medidas-preventivas-y-recomendaciones)
+1. 🔍 [Descripción del Incidente](#-descripci%C3%B3n-del-incidente)
+2. 🛡️ [Información Comprometida](#-informaci%C3%B3n-comprometida)
+3. 🛑 [Detalles del Anuncio](#-detalles-del-anuncio)
+4. 🕵️‍♂️ [Análisis de la Filtración](#-an%C3%A1lisis-de-la-filtraci%C3%B3n)
+5. ⚠️ [Impacto y Riesgos Potenciales](#-impacto-y-riesgos-potenciales)
+6. ✅ [Medidas Preventivas y Recomendaciones](#-medidas-preventivas-y-recomendaciones)
+
+---
 
 ## 🔍 Descripción del Incidente
 
 El grupo de ransomware conocido como "Meow Leaks" ha anunciado una nueva filtración de datos, apuntando a la compañía **South American Tours (SAT)**, una reconocida empresa de gestión de destinos con presencia en varios países de Sudamérica, incluyendo Argentina, Brasil, Chile, Colombia, Ecuador, Perú, y Uruguay. Aunque la compañía no está radicada en la región, la información filtrada afecta a diversas entidades y personas de Sudamérica.
+
+---
 
 ## 🛡️ Información Comprometida
 
@@ -33,6 +37,8 @@ Según información obtenida del foro de "Meow Leaks", la filtración comprende 
 
 Este paquete de datos ofrece una visión profunda de las operaciones y procesos comerciales de SAT, lo que lo convierte en un recurso valioso para competidores y analistas de la industria.
 
+---
+
 ## 🛑 Detalles del Anuncio
 
 En el foro de "Meow Leaks", el grupo de ransomware ha publicado la venta de un paquete de datos de **350 MB** extraído de South American Tours (SAT). Este paquete incluye información valiosa y sensible como datos de empleados, información de clientes, documentos de pago escaneados, y documentos médicos, entre otros.
@@ -43,13 +49,19 @@ Este acto representa una amenaza significativa para las personas y entidades de 
 
 ![SAT-2024](https://i.ibb.co/d5706fS/SAT.png)
 
+---
+
 ## 🕵️‍♂️ Análisis de la Filtración
 
 El grupo Meow Leaks ha sido conocido por su enfoque en empresas con operaciones internacionales, y este ataque contra SAT no es una excepción. A pesar de que SAT tiene su sede principal fuera de Sudamérica, su presencia en varios países de la región ha hecho que los datos filtrados tengan un impacto considerable en la seguridad y privacidad de sus clientes y empleados en Sudamérica.
 
+---
+
 ## ⚠️ Impacto y Riesgos Potenciales
 
 La filtración de datos incluye información extremadamente sensible que podría ser utilizada para fraudes, extorsión o espionaje corporativo. Las entidades y personas cuyos datos han sido comprometidos están en riesgo de sufrir ataques de phishing, robo de identidad y otras formas de explotación digital.
+
+---
 
 ## ✅ Medidas Preventivas y Recomendaciones
 
