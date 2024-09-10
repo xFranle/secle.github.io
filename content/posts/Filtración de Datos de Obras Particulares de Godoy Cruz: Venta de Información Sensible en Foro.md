@@ -9,13 +9,13 @@ tags = ['Godoy Cruz', 'argentina', 'hackeo']
 ---
 
 ## Índice
-1. 🔍 [Descripción del Incidente](#descripción-del-incidente)
-2. 🛡️ [Información Comprometida](#información-comprometida)
-3. 🛑 [Detalles del Anuncio](#detalles-del-anuncio)
-4. 🕵️‍♂️ [Análisis del Ataque](#análisis-del-ataque)
-5. ⚠️ [Impacto y Riesgos Potenciales](#impacto-y-riesgos-potenciales)
-6. 🕵️‍♂️ [Hipótesis del Ataque](#hipótesis-del-ataque)
-7. ✅ [Medidas Preventivas y Recomendaciones](#medidas-preventivas-y-recomendaciones)
+1. 🔍 [Descripción del Incidente](#-descripci%C3%B3n-del-incidente)
+2. 🛡️ [Información Comprometida](#-informaci%C3%B3n-comprometida)
+3. 🛑 [Detalles del Anuncio](#-detalles-del-anuncio)
+4. 🕵️‍♂️ [Análisis del Ataque](#-an%C3%A1lisis-del-ataque)
+5. ⚠️ [Impacto y Riesgos Potenciales](#-impacto-y-riesgos-potenciales)
+6. 🕵️‍♂️ [Hipótesis del Ataque](#-hip%C3%B3tesis-del-ataque)
+7. ✅ [Medidas Preventivas y Recomendaciones](#-medidas-preventivas-y-recomendaciones)
 
 ---
 
