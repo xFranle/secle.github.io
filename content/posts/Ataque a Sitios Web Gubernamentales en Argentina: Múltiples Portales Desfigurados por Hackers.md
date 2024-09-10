@@ -54,6 +54,12 @@ Este tipo de desfiguración de sitios web suele ser un ataque de bajo nivel téc
 
 Aunque estos ataques no suelen tener como objetivo la extracción de datos sensibles, la capacidad de vulnerar la seguridad de portales oficiales deja la puerta abierta para ataques más graves en el futuro.
 
+![defaced-2024](https://pbs.twimg.com/media/GWtmk0vWQAAHyMY?format=jpg&name=medium)
+![defaced-2024](https://pbs.twimg.com/media/GWtmk0sXQAAtvIB?format=jpg&name=medium)
+![defaced-2024](https://pbs.twimg.com/media/GWtmk0tXgAEYoqo?format=jpg&name=medium)
+![defaced-2024](https://pbs.twimg.com/media/GWtmk0vWoAEo10y?format=jpg&name=medium)
+(Imagenes gracias a "Birmingham Cyber Arms LTD")
+
 ---
 
 ## ⚠️ Impacto y Riesgos Potenciales
