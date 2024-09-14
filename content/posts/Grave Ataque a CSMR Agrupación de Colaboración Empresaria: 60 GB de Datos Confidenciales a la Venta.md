@@ -86,7 +86,7 @@ A partir de la información disponible y del análisis del incidente, se pueden 
 
 1. **Explotación de vulnerabilidades en los sistemas de seguridad**: Es posible que los atacantes hayan aprovechado una vulnerabilidad en los sistemas de seguridad de CSMR, lo que les permitió instalar el **ransomware** y extraer los datos antes de encriptar los sistemas.
 
-2. **Phishing dirigido**: Otra posible vía de ataque es el uso de **phishing** dirigido a empleados clave, como **Jorge O. S.** o **José M.**, lo que permitió el acceso a las credenciales necesarias para comprometer los sistemas de la agrupación.
+2. **Phishing dirigido**: Otra posible vía de ataque es el uso de **phishing** dirigido a empleados clave, lo que permitió el acceso a las credenciales necesarias para comprometer los sistemas de la agrupación.
 
 3. **Mala configuración de seguridad**: La falta de configuraciones de seguridad adecuadas, como la **autenticación multifactor** o la **segmentación de redes**, pudo haber facilitado la infiltración y posterior exfiltración de los datos.
 
