@@ -1,5 +1,5 @@
 +++
-title = 'Acceso Privilegiado a los Servidores de la Universidad de Morón en Venta en Foro de Hackers'
+title = 'Grave Ataque a CSMR Agrupación de Colaboración Empresaria: 60 GB de Datos Confidenciales a la Venta'
 date = 2024-09-14
 draft = false
 author = 'Franle'
