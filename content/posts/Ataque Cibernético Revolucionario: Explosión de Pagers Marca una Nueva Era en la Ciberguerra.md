@@ -1,5 +1,5 @@
 +++
-title = 'Ataque Cibernético Masivo a los Pagers de Hezbollah: Análisis de un Incidente Sin Precedentes'
+title = 'Ataque Cibernético Revolucionario: Explosión de Pagers Marca una Nueva Era en la Ciberguerra'
 date = 2024-09-17
 draft = false
 author = 'Franle'
