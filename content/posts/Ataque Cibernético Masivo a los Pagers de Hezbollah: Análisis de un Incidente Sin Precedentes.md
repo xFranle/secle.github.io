@@ -38,9 +38,6 @@ El 17 de septiembre de 2024, múltiples explosiones ocurrieron casi simultáneam
 - **Personas destacadas afectadas:** Mojtaba Amani, embajador iraní en el Líbano, resultó herido.
 - **Reacción inicial:** Hezbollah calificó el evento como "la mayor falla de seguridad en casi un año".
 
-![pagers-1](https://pbs.twimg.com/media/GXsHl1rWkAAawUN?format=jpg&name=large?s=200&v=4&naturalWidth=200&naturalHeight=200&width=100&height=100)
-![pagers-2](https://pbs.twimg.com/media/GXrxs_dXoAIFmqk?format=jpg&name=large?s=200&v=4&naturalWidth=200&naturalHeight=200&width=100&height=100)
-
 ---
 
 ## Detalles Técnicos del Ataque
@@ -66,8 +63,8 @@ Aunque la información oficial es limitada debido a la sensibilidad del incident
    - **Efecto:** Ejecución de comandos no autorizados que afectan el funcionamiento del hardware.
 
 Imagenes de los 'pagers'
-![pagers-3](https://pbs.twimg.com/media/GXsBDEWXkAAcf4h?format=jpg&name=large?s=200&v=4&naturalWidth=200&naturalHeight=200&width=100&height=100)
-![pagers-4](https://pbs.twimg.com/media/GXrm-f7WAAELjVM?format=jpg&name=small?s=200&v=4&naturalWidth=200&naturalHeight=200&width=100&height=100)
+![pagers-3](https://pbs.twimg.com/media/GXrm-f7XwAAyNUP?format=jpg&name=medium)
+![pagers-4](https://pbs.twimg.com/media/GXrm-f7WAAELjVM?format=jpg&name=small)
 
 ---
 
