@@ -16,8 +16,7 @@ tags = ['internacional', 'hardware security', 'IoT', 'guerra electrónica', 'cib
 4. [Análisis del Ataque](#an%C3%A1lisis-del-ataque)
 5. [Impacto y Consecuencias](#impacto-y-consecuencias)
 6. [Implicaciones para la Ciberseguridad](#implicaciones-para-la-ciberseguridad)
-7. [Medidas Recomendadas Para la Comunidad Internacional](#medidas-recomendadas-para-la-comunidad-internacional)
-8. [Conclusiones](#conclusiones)
+7. [Conclusiones](#conclusiones)
 
 ---
 
@@ -146,15 +145,6 @@ Este incidente subraya la urgente necesidad de establecer normativas claras que 
   - Necesidad de establecer normativas claras sobre el uso de ciberarmas y la protección de civiles.
 - **Responsabilidad y Rendición de Cuentas:**
   - Dificultad para atribuir ataques y aplicar sanciones.
-
----
-
-## Medidas Recomendadas Para la Comunidad Internacional
-
-- **Desarrollo de Normativas:**
-  - Crear marcos legales que regulen el uso de ciberarmas y protejan a la población civil.
-- **Promoción de la Paz Cibernética:**
-  - Fomentar acuerdos internacionales que limiten los ataques cibernéticos en tiempos de conflicto.
 
 ---
 
