@@ -36,8 +36,6 @@ El 17 de septiembre de 2024, múltiples explosiones ocurrieron casi simultáneam
 
 - **Ubicaciones afectadas:** Beirut, Bekaa, Nabatieh, Tyre, Bint Jbeil y áreas en Damasco, Siria.
 - **Víctimas:** Al menos 8 muertos y más de 2,800 heridos, incluyendo civiles y miembros de Hezbollah.
-- **Personas destacadas afectadas:** Mojtaba Amani, embajador iraní en el Líbano, resultó herido.
-- **Reacción inicial:** Hezbollah calificó el evento como "la mayor falla de seguridad en casi un año".
 
 ---
 
