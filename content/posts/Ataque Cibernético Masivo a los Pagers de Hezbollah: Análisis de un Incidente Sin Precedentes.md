@@ -66,6 +66,10 @@ Aunque la información oficial es limitada debido a la sensibilidad del incident
    - A raíz de nuevas informaciones, se especula que el ataque implicó la manipulación directa de las baterías de litio de los dispositivos a través de señales de radiofrecuencia (RF). Esto pudo haber causado una acumulación de capacitancia en las baterías, provocando su sobrecalentamiento y posterior explosión.
    - **Efecto:** Sobrecarga de las celdas de las baterías, provocando explosiones localizadas.
 
+Imagenes de los 'pagers' afectados en el ataque
+![pagers-3](https://pbs.twimg.com/media/GXrm-f7XwAAyNUP?format=jpg&name=medium)
+![pagers-4](https://pbs.twimg.com/media/GXrm-f7WAAELjVM?format=jpg&name=small)
+
 ---
 
 ## Análisis del Ataque
