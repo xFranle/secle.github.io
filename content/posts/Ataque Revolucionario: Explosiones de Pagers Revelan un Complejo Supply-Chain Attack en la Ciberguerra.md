@@ -78,6 +78,10 @@ El ataque demuestra un alto nivel de sofisticación técnica y operativa, con in
 - **Coordinación Precisa:** Las explosiones ocurrieron casi simultáneamente en varias ubicaciones, lo que indica un control remoto preciso y sincronizado.
 - **Uso de Explosivos Avanzados:** PETN es un explosivo potente y estable, lo que sugiere que los atacantes tenían conocimiento avanzado sobre cómo incorporar este material en los dispositivos sin ser detectados.
 
+Imagenes de los 'pagers' afectados en el ataque
+![pagers-3](https://pbs.twimg.com/media/GXrm-f7XwAAyNUP?format=jpg&name=medium)
+![pagers-4](https://pbs.twimg.com/media/GXrm-f7WAAELjVM?format=jpg&name=small)
+
 ---
 
 ## Impacto y Consecuencias
