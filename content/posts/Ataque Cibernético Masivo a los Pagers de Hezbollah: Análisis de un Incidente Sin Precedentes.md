@@ -3,7 +3,7 @@ title = 'Ataque Cibernético Masivo a los Pagers de Hezbollah: Análisis de un I
 date = 2024-09-17
 draft = false
 author = 'Franle'
-tags = ['internacional', '', 'hackeo', 'universidad', 'moron']
+tags = ['internacional', 'hardware security', 'hackeo', 'guerra']
 +++
 
 ---
@@ -38,6 +38,9 @@ El 17 de septiembre de 2024, múltiples explosiones ocurrieron casi simultáneam
 - **Personas destacadas afectadas:** Mojtaba Amani, embajador iraní en el Líbano, resultó herido.
 - **Reacción inicial:** Hezbollah calificó el evento como "la mayor falla de seguridad en casi un año".
 
+![pagers-1](https://pbs.twimg.com/media/GXsHl1rWkAAawUN?format=jpg&name=large)
+![pagers-2](https://pbs.twimg.com/media/GXrxs_dXoAIFmqk?format=jpg&name=large)
+
 ---
 
 ## Detalles Técnicos del Ataque
@@ -61,6 +64,10 @@ Aunque la información oficial es limitada debido a la sensibilidad del incident
 4. **Mensajes Maliciosos con Código Malicioso:**
    - Envío de mensajes que explotan vulnerabilidades en el firmware del dispositivo.
    - **Efecto:** Ejecución de comandos no autorizados que afectan el funcionamiento del hardware.
+
+Imagenes de los 'pagers'
+![pagers-3](https://pbs.twimg.com/media/GXsBDEWXkAAcf4h?format=jpg&name=large)
+![pagers-4](https://pbs.twimg.com/media/GXrm-f7WAAELjVM?format=jpg&name=small)
 
 ---
 
