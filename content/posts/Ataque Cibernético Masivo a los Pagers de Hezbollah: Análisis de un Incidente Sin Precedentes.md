@@ -3,20 +3,20 @@ title = 'Ataque Cibernético Masivo a los Pagers de Hezbollah: Análisis de un I
 date = 2024-09-17
 draft = false
 author = 'Franle'
-tags = ['internacional', 'hardware security', 'hackeo', 'guerra']
+tags = ['internacional', 'hardware security', 'IoT', 'guerra electrónica', 'ciberataques', 'baterías de litio']
 +++
 
 ---
 
 ## Índice
 
-1. [Introducción](#introducción)
-2. [Descripción del Incidente](#descripción-del-incidente)
-3. [Detalles Técnicos del Ataque](#detalles-técnicos-del-ataque)
-4. [Análisis del Ataque](#análisis-del-ataque)
+1. [Introducción](#introducci%C3%B3n)
+2. [Descripción del Incidente](#descripci%C3%B3n-del-incidente)
+3. [Detalles Técnicos del Ataque](#detalles-t%C3%A9cnicos-del-ataque)
+4. [Análisis del Ataque](#an%C3%A1lisis-del-ataque)
 5. [Impacto y Consecuencias](#impacto-y-consecuencias)
 6. [Implicaciones para la Ciberseguridad](#implicaciones-para-la-ciberseguridad)
-7. [Medidas Preventivas y Recomendaciones](#medidas-preventivas-y-recomendaciones)
+7. [Medidas Recomendadas Para la Comunidad Internacional](#medidas-recomendadas-para-la-comunidad-internacional)
 8. [Conclusiones](#conclusiones)
 
 ---
@@ -62,9 +62,9 @@ Aunque la información oficial es limitada debido a la sensibilidad del incident
    - Envío de mensajes que explotan vulnerabilidades en el firmware del dispositivo.
    - **Efecto:** Ejecución de comandos no autorizados que afectan el funcionamiento del hardware.
 
-Imagenes de los 'pagers'
-![pagers-3](https://pbs.twimg.com/media/GXrm-f7XwAAyNUP?format=jpg&name=medium)
-![pagers-4](https://pbs.twimg.com/media/GXrm-f7WAAELjVM?format=jpg&name=small)
+5. **Manipulación de Baterías de Litio a través de Sobrecarga Controlada:**
+   - A raíz de nuevas informaciones, se especula que el ataque implicó la manipulación directa de las baterías de litio de los dispositivos a través de señales de radiofrecuencia (RF). Esto pudo haber causado una acumulación de capacitancia en las baterías, provocando su sobrecalentamiento y posterior explosión.
+   - **Efecto:** Sobrecarga de las celdas de las baterías, provocando explosiones localizadas.
 
 ---
 
@@ -121,12 +121,13 @@ El ataque demuestra un alto nivel de sofisticación técnica y recursos, indican
 
 ## Implicaciones para la Ciberseguridad
 
-### Evolución de las Amenazas
+### Riesgos Físicos en Dispositivos IoT
 
-- **Ataques Físicos a través de Medios Cibernéticos:**
-  - Demostración de que dispositivos simples pueden ser vectores para ataques destructivos.
-- **Necesidad de Seguridad en Hardware:**
-  - Importancia de asegurar no solo el software, sino también el hardware y la cadena de suministro.
+Este ataque cibernético pone de manifiesto una amenaza creciente en el mundo de la ciberseguridad: el riesgo físico que representa la manipulación de dispositivos IoT. A medida que más dispositivos conectados a Internet (como pagers, cámaras, electrodomésticos) forman parte de redes sensibles, se corre el riesgo de que ciberatacantes puedan explotar vulnerabilidades para causar daño físico, como sobrecargas eléctricas, cortocircuitos o explosiones, a través de señales maliciosas o ataques remotos.
+
+### Regulaciones de Seguridad para Dispositivos IoT
+
+Este incidente subraya la urgente necesidad de establecer normativas claras que rijan la seguridad de dispositivos IoT, incluyendo el manejo seguro de baterías de litio. Las actuales normativas de ciberseguridad deben ampliarse para abarcar los riesgos físicos que surgen cuando los atacantes tienen la capacidad de interactuar directamente con el hardware de un dispositivo a través de medios digitales. Se necesitan estándares internacionales que incluyan la inspección regular de dispositivos IoT y una mayor transparencia en sus componentes de hardware.
 
 ### Infraestructuras Críticas
 
