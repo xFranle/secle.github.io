@@ -18,6 +18,8 @@ tags = ['e-commerce', 'argentina', 'hackeo', 'leak', 'db']
 
 ---
 
+![improntus](https://pbs.twimg.com/media/GYFrvvwWcAA1KS-?format=jpg&name=large)
+
 ## Descripción del Incidente
 
 En septiembre de 2024, se filtró una importante base de datos de **Improntus.com**, una agencia líder en comercio electrónico que trabaja exclusivamente con la **Adobe Experience Platform**. El incidente ha afectado directamente a los sistemas de administración de clientes y pedidos, exponiendo una vasta cantidad de información personal y financiera de los usuarios.
@@ -112,6 +114,3 @@ A medida que los atacantes como **Chucky** continúan explotando estas vulnerabi
 La información presentada en este artículo se basa en reportes disponibles hasta la fecha de publicación y tiene fines informativos y educativos. No se han divulgado datos personales ni información sensible de manera que pueda identificar a individuos específicos.
 
 ---
-
-**Fuente:**  
-[Publicación original en Foro de Cibercrimen](#)
