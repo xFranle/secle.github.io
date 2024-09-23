@@ -125,6 +125,3 @@ Las organizaciones que utilicen **CleverSoft** deben exigir una mayor seguridad 
 La información presentada en este artículo tiene fines puramente informativos y educativos. No se han divulgado datos personales ni información sensible de manera que pueda identificar a individuos específicos.
 
 ---
-
-**Fuente:**  
-[Publicación original en Foro de Cibercrimen](#)
