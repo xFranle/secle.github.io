@@ -18,6 +18,8 @@ tags = ['ransomware', 'argentina', 'fabrica', 'trinity']
 
 ---
 
+![fabrica-srl](https://iili.io/dsbKjEu.png)
+
 ## Descripción del Incidente
 
 El grupo de ransomware **Trinity** ha anunciado a **Fábrica SRL**, una empresa argentina dedicada a la maquinaria industrial, como su última víctima. Según la información publicada en el sitio **.onion** de Trinity, el grupo ha logrado comprometer una base de datos de **20 TB** perteneciente a la compañía. La filtración incluye información sensible relacionada con la empresa y sus operaciones, afectando posiblemente a sus clientes y empleados.
