@@ -94,5 +94,10 @@ Es fundamental que el gobierno continúe invirtiendo en la mejora de las políti
 
 El ataque DDoS a la Corte Suprema de Justicia de Argentina no es un incidente aislado, sino parte de una tendencia creciente de ciberataques dirigidos a instituciones gubernamentales críticas. La sofisticación de estos ataques y su capacidad para desestabilizar infraestructuras esenciales subrayan la importancia de mejorar la ciberseguridad en todos los niveles de gobierno.
 
----
 La resiliencia cibernética se ha convertido en un aspecto central para la estabilidad institucional, y es imperativo que se sigan adoptando medidas para mitigar el riesgo de futuros ataques. La cooperación internacional, junto con el fortalecimiento de las políticas internas de seguridad, será clave para proteger a las instituciones argentinas de amenazas cibernéticas cada vez más avanzadas.
+
+---
+
+## Disclaimer
+
+La información presentada en este artículo se basa en reportes disponibles hasta la fecha de publicación y tiene fines informativos y educativos. Este artículo no promueve ni respalda actividades ilícitas, y se centra en concienciar sobre la ciberseguridad 
