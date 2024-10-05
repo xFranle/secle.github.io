@@ -16,15 +16,14 @@ tags = ['telecom', 'argentina', 'ssh', 'root access', 'isp']
 4. [Impacto en la Seguridad de Telecom](#impacto-en-la-seguridad-de-telecom)
 5. [Métodos de Explotación y Vulnerabilidades Potenciales](#métodos-de-explotación-y-vulnerabilidades-potenciales)
 6. [Medidas de Seguridad Recomendadas](#medidas-de-seguridad-recomendadas)
-7. [Implicaciones para Otras Empresas de Telecomunicaciones](#implicaciones-para-otras-empresas-de-telecomunicaciones)
-8. [Reflexiones Finales](#reflexiones-finales)
-9. [Disclaimer](#disclaimer)
+7. [Reflexiones Finales](#reflexiones-finales)
+8. [Disclaimer](#disclaimer)
 
 ---
 
 ## Introducción
 
-El sector de telecomunicaciones en Argentina ha sido objetivo de un preocupante incidente de ciberseguridad. Un actor de amenazas ha puesto a la venta **acceso root vía SSH** a un servidor perteneciente a **Telecom Argentina**, una de las principales empresas de telecomunicaciones del país. La publicación fue compartida en **BreachForums**, un foro conocido en la dark web por facilitar la venta de acceso a sistemas comprometidos y datos robados.
+El sector de telecomunicaciones en Argentina ha sido objetivo de un preocupante incidente de ciberseguridad. Un actor de amenazas ha puesto a la venta **acceso root vía SSH** a un servidor perteneciente a **Telecom Argentina**, una de las principales empresas de telecomunicaciones del país. La publicación fue compartida en un foro conocido en la dark web por facilitar la venta de acceso a sistemas comprometidos y datos robados.
 
 El acceso comprometido está siendo ofrecido a cambio de 2,000 USD, con el precio negociable. Según el atacante, el servidor comprometido contiene más de **200 GB de información** crítica.
 
@@ -32,7 +31,7 @@ El acceso comprometido está siendo ofrecido a cambio de 2,000 USD, con el preci
 
 ## Descripción del Incidente
 
-En la publicación hecha en BreachForums, el atacante muestra una captura de pantalla donde se detalla el acceso completo al servidor bajo **permisos de administrador/root**. La cuenta utilizada permite operar el sistema con acceso total, lo que les permitiría modificar, extraer o incluso eliminar información crítica almacenada en el servidor.
+En la publicación, el atacante muestra una captura de pantalla donde se detalla el acceso completo al servidor bajo **permisos de administrador/root**. La cuenta utilizada permite operar el sistema con acceso total, lo que les permitiría modificar, extraer o incluso eliminar información crítica almacenada en el servidor.
 
 ### Detalles adicionales:
 - **Sistema Operativo**: GNU/Linux
@@ -97,14 +96,6 @@ Es crucial que las empresas de telecomunicaciones como Telecom adopten medidas d
 5. **Actualización de Software y Parches de Seguridad**: Mantener el sistema operativo y el software asociado completamente actualizado con los parches de seguridad más recientes es esencial para prevenir que los atacantes exploten vulnerabilidades conocidas.
 
 6. **Registro y Auditoría de Accesos SSH**: Implementar auditorías de accesos con registros detallados para revisar todos los intentos de conexión y analizar los accesos realizados, facilitando la detección de intentos maliciosos.
-
----
-
-## Implicaciones para Otras Empresas de Telecomunicaciones
-
-Este incidente debería servir como advertencia para otras empresas de telecomunicaciones en Argentina y la región. Los actores de amenazas están cada vez más enfocados en atacar infraestructuras críticas como telecomunicaciones, debido al valor de los datos y la importancia de estos servicios.
-
-Las empresas deben redoblar sus esfuerzos en ciberseguridad, implementar auditorías de seguridad periódicas y estar atentas a las nuevas tendencias en ciberataques para proteger tanto sus infraestructuras como a sus clientes.
 
 ---
 
