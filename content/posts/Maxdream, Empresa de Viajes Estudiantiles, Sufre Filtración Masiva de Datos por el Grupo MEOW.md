@@ -29,6 +29,8 @@ tags = ['egresados', 'argentina', 'MEOW', 'filtracion de datos']
 ## Introducción
 El grupo de ciberdelincuencia **MEOW** ha sumado una nueva víctima en Argentina: **Maxdream**, una empresa especializada en la organización de viajes de graduación para estudiantes. La filtración involucra un total de **38 GB de datos confidenciales**, exponiendo información personal, financiera y médica tanto de empleados como de clientes. Este incidente destaca la vulnerabilidad del sector de viajes ante ciberataques y subraya la necesidad de mejorar la seguridad de los datos.
 
+![maxdream](https://i.gyazo.com/7c4f5af375dd6942b745bd57c9bbe23d.png)
+
 ## Descripción del Incidente
 La filtración fue anunciada por el grupo MEOW en un foro de ciberdelincuentes, ofreciendo la venta de un paquete de datos de **38 GB** que incluye información altamente sensible. El grupo, conocido por su enfoque en robar y vender datos, ha identificado a Maxdream como su más reciente objetivo en una serie de ciberataques.
 
