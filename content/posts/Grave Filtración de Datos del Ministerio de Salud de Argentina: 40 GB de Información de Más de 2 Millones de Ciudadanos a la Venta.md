@@ -1,5 +1,5 @@
 +++
-title = 'Grave Filtración de Datos del Ministerio de Salud de Argentina: 40 GB de Información de Más de 2 Millones de Ciudadanos a la Venta.md'
+title = 'Grave Filtración de Datos del Ministerio de Salud de Argentina: 40 GB de Información de Más de 2 Millones de Ciudadanos a la Venta'
 date = 2024-11-02
 draft = false
 author = 'Franle'
