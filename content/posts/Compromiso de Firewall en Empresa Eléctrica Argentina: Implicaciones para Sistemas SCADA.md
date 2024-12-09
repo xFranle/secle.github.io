@@ -24,7 +24,7 @@ tags = ['firewall', 'argentina', 'hackeo', 'scada', 'electricidad']
 ## Introducción  
 Un actor de amenazas ha publicado en un foro clandestino la venta de **acceso raíz a un firewall** perteneciente a una empresa de distribución eléctrica primaria en Argentina, por un precio de **600 dólares**. Este incidente representa un grave riesgo para las infraestructuras críticas del país, particularmente los sistemas SCADA (Supervisory Control and Data Acquisition) que supervisan y controlan procesos de distribución eléctrica.  
 
-El compromiso de este tipo de acceso podría permitir a atacantes malintencionados manipular redes eléctricas, provocar apagones masivos, robar información sensible y comprometer la estabilidad energética y la seguridad nacional.  
+El compromiso de este tipo de acceso podría permitir a atacantes malintencionados manipular redes eléctricas, provocar apagones masivos, robar información sensible y comprometer la estabilidad energética. 
 
 ---
 
@@ -32,8 +32,7 @@ El compromiso de este tipo de acceso podría permitir a atacantes malintencionad
 Según la publicación en el foro clandestino:  
 - **Detalles del Acceso:** Raíz al servidor que hospeda el firewall.  
 - **Privilegios:** Control total (root).  
-- **Precio:** 600 USD (precio no negociable).  
-- **Condiciones:** Solo compradores serios, con detalles adicionales ofrecidos únicamente en sesiones privadas.  
+- **Precio:** 600 USD
 
 Este tipo de acceso representa una amenaza significativa, ya que podría permitir:  
 - Monitorear el tráfico entrante y saliente.  
