@@ -108,7 +108,7 @@ Para prevenir incidentes similares en el futuro, se recomienda:
    Realizar revisiones regulares de las bases de datos y sistemas de almacenamiento para detectar vulnerabilidades y accesos no autorizados.  
 
 5. **Cumplimiento de Normativas Específicas para Datos del Sector Público:**  
-   Adoptar estándares como **ISO/IEC 27701** para proteger información personal y desarrollar controles alineados con políticas de seguridad nacional.  
+   Adoptar estándares internacionales para proteger información personal y desarrollar controles alineados con políticas de seguridad nacional.  
 
 6. **Segmentación de Bases de Datos:**  
    Limitar la exposición de bases de datos sensibles mediante la segmentación de redes y controles de acceso estrictos.
@@ -116,7 +116,7 @@ Para prevenir incidentes similares en el futuro, se recomienda:
 ---
 
 ## Reflexión Final  
-La filtración de **2,628 registros de empleados del MSP de Uruguay** es un recordatorio urgente de la necesidad de proteger la información en el sector público. La exposición de nombres, correos electrónicos y roles facilita ataques específicos como phishing dirigido y suplantación de identidad. Para mitigar estos riesgos, es fundamental implementar controles avanzados de seguridad, capacitar al personal y alinearse con estándares específicos de protección de datos del sector público, como **ISO/IEC 27701**.  
+La filtración de **2,628 registros de empleados del MSP de Uruguay** es un recordatorio urgente de la necesidad de proteger la información en el sector público. La exposición de nombres, correos electrónicos y roles facilita ataques específicos como phishing dirigido y suplantación de identidad. Para mitigar estos riesgos, es fundamental implementar controles avanzados de seguridad, capacitar al personal y alinearse con estándares específicos de protección de datos del sector público y salud.  
 
 ---
 
@@ -133,9 +133,6 @@ Implementando controles de acceso, autenticación multifactor, segmentación de 
 
 **4. ¿Por qué el sector público es un objetivo atractivo?**  
 El sector público maneja información sensible y muchas veces presenta vulnerabilidades debido a presupuestos limitados o sistemas obsoletos.  
-
-**5. ¿Qué prácticas de seguridad deberían adoptarse en el MSP?**  
-El MSP debería aplicar segmentación de redes, monitoreo continuo y alinearse con estándares como **ISO/IEC 27701** para proteger datos personales.  
 
 ---
 
