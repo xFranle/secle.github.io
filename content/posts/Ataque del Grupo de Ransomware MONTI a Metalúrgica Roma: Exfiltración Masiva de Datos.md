@@ -24,6 +24,8 @@ En este artículo, exploraremos los detalles del ataque, el perfil del grupo MON
 
 ---
 
+![monti-25](https://media.licdn.com/dms/image/v2/D4E22AQFL9shzBxqK3w/feedshare-shrink_2048_1536/B4EZTMKQw3HgAw-/0/1738592031164?e=1741219200&v=beta&t=WbAYzUFOICyj5PJW3L13c7vFvX4RWfam0UcekON7IGU)
+
 ## Descripción del Ataque  
 El grupo **MONTI** anunció el ataque a **Metalúrgica Roma** el pasado 28 de enero de 2025. La información filtrada incluye más de **5 GB** de datos comprimidos, entre los cuales se encuentran archivos críticos como:
 
