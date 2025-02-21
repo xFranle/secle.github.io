@@ -139,6 +139,6 @@ Este incidente expone las limitaciones de las soluciones multisig y el almacenam
 
 ## 7. Disclaimer
 
-Esta noticia se basa en información pública, análisis on-chain y comunicados oficiales. No constituye asesoría financiera ni legal. Se recomienda a las instituciones y usuarios consultar a expertos en ciberseguridad para fortalecer sus protocolos de protección.
+Esta noticia se basa en información pública, análisis on-chain y comunicados oficiales. No constituye asesoría financiera ni legal. Se recomienda a las instituciones y usuarios consultar a expertos en ciberseguridad (como Secle Solutions 😉) para fortalecer sus protocolos de protección.
 
 ---
