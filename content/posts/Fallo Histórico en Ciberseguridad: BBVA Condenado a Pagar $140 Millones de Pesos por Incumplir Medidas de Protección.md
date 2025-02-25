@@ -24,9 +24,9 @@ tags = ['argentina', 'BBVA', 'hackeo', 'banco', 'financiera']
 
 ## 📰 Introducción  
 
-En un fallo sin precedentes en materia de ciberseguridad y protección financiera, el **Tribunal Civil N°3 de La Plata** condenó al **BBVA Argentina** a pagar cerca de **$140 millones** a **Grupo Logística Uno**, una pyme que fue víctima de fraude digital.  
+En un fallo sin precedentes en materia de ciberseguridad y protección financiera, el **Tribunal Civil de La Plata** condenó al **BBVA Argentina** a pagar cerca de **$140 millones** a **Grupo Logística Uno**, una pyme que fue víctima de fraude digital.  
 
-El fallo, emitido por el **Juzgado en lo Civil y Comercial N°9 de La Plata**, determinó que el banco no implementó medidas de seguridad adecuadas para prevenir la estafa y que su sistema de monitoreo y control resultó deficiente.  
+El fallo, emitido por el **Juzgado en lo Civil y Comercial de La Plata**, determinó que el banco no implementó medidas de seguridad adecuadas para prevenir la estafa y que su sistema de monitoreo y control resultó deficiente.  
 
 Este caso marca un **precedente clave en seguridad bancaria y ciberseguridad financiera en Argentina**, estableciendo una advertencia a las instituciones sobre la **importancia de reforzar sus sistemas de prevención de fraudes digitales**.  
 
