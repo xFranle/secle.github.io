@@ -1,5 +1,5 @@
 +++
-title = 'Motomecánica víctima de ransomware: SAFEPAY filtra credenciales y 171GB de datos'
+title = 'Motomecánica víctima de ransomware: SAFEPAY filtra credenciales y 171GB de datos comprometidos'
 date = 2025-03-12
 draft = false
 author = 'Franle'
