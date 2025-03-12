@@ -78,8 +78,11 @@ Lo más alarmante es la presencia de **contraseñas en texto plano y enlaces dir
 Para evitar este tipo de incidentes, las empresas deben reforzar su postura en ciberseguridad con medidas clave:
 
 ✅ **Habilitar autenticación multifactor (MFA)** en todos los accesos críticos.
+
 ✅ **Implementar monitoreo de credenciales filtradas** para detectar accesos no autorizados.
+
 ✅ **Revisar y restringir permisos de acceso** en plataformas internas.
+
 ✅ **Utilizar gestores de contraseñas** en lugar de almacenar credenciales en archivos internos.
 
 ---
