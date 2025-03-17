@@ -6,7 +6,7 @@ author = 'Franle'
 tags = ['argentina', 'gubernamental', 'correos', 'venta']
 +++
 
-![correos](https://i.gyazo.com/7a1fad2da218ac23ecb3400e85acf622.png)
+![correos](https://i.gyazo.com/8c005669eedb704216f2f376fa975083.jpg)
 
 ## Índice
 
