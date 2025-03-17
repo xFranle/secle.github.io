@@ -103,7 +103,9 @@ Se pueden usar herramientas como **Have I Been Pwned** o plataformas de monitore
 
 ### 📌 4. ¿Cómo se puede evitar este tipo de filtraciones?
 🔹 **No reutilizar contraseñas entre servicios.**
+
 🔹 **Usar autenticación multifactor (MFA).**
+
 🔹 **Capacitar al personal en ciberseguridad y phishing.**
 
 ---
