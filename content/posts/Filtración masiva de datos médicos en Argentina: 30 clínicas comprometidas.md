@@ -36,7 +36,7 @@ Entre los archivos se encontrarían:
 - Información sensible de salud y diagnóstico
 - Registros hasta febrero de 2025
 
-La totalidad del contenido filtrado asciende a **más de 30 instituciones médicas** y más de **2GB de datos distribuidos en múltiples clínicas**.
+La totalidad del contenido filtrado asciende a **más de 30 instituciones médicas**.
 
 ---
 
@@ -76,9 +76,9 @@ No se reporta, por el momento, un pedido de rescate económico. La filtración p
 
 ## Conclusiones y recomendaciones
 
-🔍 Este incidente muestra una vez más la fragilidad de los entornos tecnológicos en salud en Argentina. En un sistema interconectado, **la vulnerabilidad de un proveedor afecta a decenas de instituciones y miles de personas**.
+Este incidente muestra una vez más la fragilidad de los entornos tecnológicos en salud en Argentina. En un sistema interconectado, **la vulnerabilidad de un proveedor afecta a decenas de instituciones y miles de personas**.
 
-### 🛡️ Recomendaciones 2025:
+### Recomendaciones 2025:
 - Exigir a los proveedores auditorías periódicas de seguridad (pentesting, cumplimiento normativo)
 - Aplicar segmentación de red entre software de gestión médica y servidores de resultados
 - Implementar doble factor de autenticación (2FA) en todo acceso a historiales
