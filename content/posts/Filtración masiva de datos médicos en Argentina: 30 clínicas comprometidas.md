@@ -8,6 +8,8 @@ tags = ['argentina', 'salud', 'filtracion', 'clinicas', 'hipaa']
 
 ---
 
+![salud-25-1](https://i.ibb.co/1fmGgm1j/Captura-de-pantalla-2025-04-07-a-la-s-10-53-04-a-m.png)
+
 ## Índice
 1. [¿Qué pasó?](#qué-pasó)
 2. [¿Qué datos se filtraron?](#qué-datos-se-filtraron)
