@@ -14,7 +14,7 @@ tags = ['argentina', 'ransomware', 'filtracion', 'NightSpire']
 
 1. [Introducción](#introducción)  
 2. [Detalles del incidente](#detalles-del-incidente)  
-3. [¿Quiénes son BCALTD?](#quiénes-son-bcaltd)  
+3. [¿Quiénes son NightSpire?](#quiénes-son-nightspire)  
 4. [Riesgos para la empresa](#riesgos-para-la-empresa)  
 5. [Recomendaciones de ciberseguridad](#recomendaciones-de-ciberseguridad)  
 6. [Reflexión final](#reflexión-final)  
@@ -23,7 +23,7 @@ tags = ['argentina', 'ransomware', 'filtracion', 'NightSpire']
 
 ## Introducción
 
-El grupo de ransomware **BCALTD** anunció que ha comprometido los sistemas de la empresa textil argentina **Zaphira Uniformes**, advirtiendo que liberará un conjunto de 200 GB de datos si no se cumplen sus demandas antes del **28 de abril de 2025**.
+El grupo de ransomware **NightSpire** anunció que ha comprometido los sistemas de la empresa textil argentina **Zaphira Uniformes**, advirtiendo que liberará un conjunto de 200 GB de datos si no se cumplen sus demandas antes del **28 de abril de 2025**.
 
 Este tipo de ataques no solo compromete información interna, sino que deja en jaque la reputación y continuidad operativa de las organizaciones afectadas.
 
@@ -36,16 +36,27 @@ Este tipo de ataques no solo compromete información interna, sino que deja en j
 - **Fecha del ataque**: 08 de abril de 2025  
 - **Fecha límite de filtración**: 28 de abril de 2025  
 - **Volumen de datos**: 200 GB  
-- **Grupo atacante**: BCALTD  
+- **Grupo atacante**: NightSpire  
 
 La plataforma del grupo muestra una cuenta regresiva activa, habitual en campañas de extorsión digital. Aunque aún no hay archivos publicados, se anuncian como "disponibles próximamente".
 
 ---
 
-## ¿Quiénes son BCALTD?
+## ¿Quiénes son NightSpire?
 
-BCALTD es un actor emergente en el ecosistema del ransomware. Sus campañas siguen un patrón: exposición pública, presión a través de cuenta regresiva y posible subasta de datos. Su portal recuerda a modelos operados por grupos con historial de operaciones globales.
+![NightSpire](https://i.gyazo.com/e15bf749485fc409fd96fd82ee87a095.png)
 
+NightSpire es un grupo de ransomware emergente que apareció en el panorama cibernético a principios de marzo de 2025. A diferencia de otros grupos que resurgen bajo nuevas identidades, NightSpire parece ser una operación completamente nueva, aunque se han observado posibles vínculos con el grupo Rbfs, ya que comparten operadores y víctimas anteriores .
+
+Este grupo ha adoptado tácticas agresivas y una infraestructura profesionalizada, similar a las operaciones de ransomware como servicio (RaaS). Su modus operandi incluye:
+
+- Doble extorsión: exfiltran datos sensibles y luego cifran los sistemas, presionando a las víctimas con la amenaza de publicar la información si no se paga el rescate.
+- Comunicación multicanal: utilizan servicios como ProtonMail, OnionMail y canales de Telegram para negociar y actualizar sobre filtraciones.
+- Infraestructura visible: su sitio en la dark web muestra una lista de víctimas con temporizadores de cuenta regresiva para la publicación de datos, una táctica diseñada para aumentar la presión psicológica sobre las víctimas.
+
+En cuanto a sus técnicas, NightSpire ha sido observado explotando vulnerabilidades en servicios perimetrales, como firewalls y VPNs, para obtener acceso inicial. Posteriormente, utilizan herramientas legítimas como WinSCP y MEGACmd para exfiltrar datos, y emplean binarios nativos del sistema (LOLBins) para evadir la detección .
+
+Hasta la fecha, NightSpire ha reclamado al menos 11 víctimas, con un enfoque particular en pequeñas y medianas empresas del sector manufacturero, aunque sus ataques no se limitan a una industria específica .
 ---
 
 ## Riesgos para la empresa
