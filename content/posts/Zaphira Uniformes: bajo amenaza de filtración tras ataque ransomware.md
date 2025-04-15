@@ -1,5 +1,5 @@
 +++
-title = '# Zaphira Uniformes: bajo amenaza de filtración tras ataque ransomware'
+title = 'Zaphira Uniformes: bajo amenaza de filtración tras ataque ransomware'
 date = 2025-04-14
 draft = false
 author = 'Franle'
