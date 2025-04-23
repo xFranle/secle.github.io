@@ -8,8 +8,6 @@ tags = ['argentina', 'ransomware', 'filtracion', 'Rhysida']
 
 ---
 
-# 🚧 Rhysida anuncia a Milicic como su próxima víctima: Subastan datos por 10 BTC
-
 **Fecha del anuncio:** 23 de Abril 2025  
 **Grupo atacante:** Rhysida  
 **Empresa afectada:** Milicic S.A.  
@@ -45,7 +43,7 @@ Su sede principal se encuentra en **Rosario, Santa Fe**, y es reconocida como un
 
 El grupo **Rhysida**, conocido por operar bajo el modelo de ransomware con filtración y subasta de datos, anunció públicamente a Milicic en su plataforma.
 
-Según la publicación, los datos estarían disponibles por un precio de **10 Bitcoin (~USD 650.000)**, bajo un sistema de subasta **exclusiva** (una sola mano compradora, sin reventa permitida).
+Según la publicación, los datos estarían disponibles por un precio de **10 Bitcoin**, bajo un sistema de subasta **exclusiva** (una sola mano compradora, sin reventa permitida).
 
 Aunque aún no se han publicado muestras, el mensaje sugiere que el contenido filtrado podría incluir información de alto valor estratégico o financiero.
 
