@@ -65,8 +65,6 @@ El nivel de exposición permite a cualquier actor malicioso realizar un **mapeo 
 - **Ingeniería social** o colaboración interna.
 - Ausencia de control de dispositivos de almacenamiento removibles y cámaras.
 
-No hay evidencia de ransomware o intrusión remota, lo que sugiere una **filtración basada en acceso directo**, lo cual es aún más preocupante en contextos penitenciarios.
-
 ---
 
 ## Implicancias y riesgos de esta exposición
