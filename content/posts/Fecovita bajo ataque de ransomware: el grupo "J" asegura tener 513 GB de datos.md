@@ -1,9 +1,9 @@
 +++
 title = 'Fecovita bajo ataque de ransomware: el grupo "J" asegura tener 513 GB de datos'
-date = 2025-06-09
+date = 2025-06-23
 draft = false
 author = 'Franle'
-tags = ['argentina', 'ransomware', 'fecovita', 'grupo J', 'filtración', 'extorsión']
+tags = ['argentina', 'ransomware', 'fecovita', 'grupo J', 'filtración']
 +++
 
 ---
