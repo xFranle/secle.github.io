@@ -1,5 +1,5 @@
 +++
-title: 'Estados Unidos desmantela esquema de trabajadores IT remotos vinculados a Corea del Norte'
+title = 'Estados Unidos desmantela esquema de trabajadores IT remotos vinculados a Corea del Norte'
 date = 2025-07-01
 draft = false
 author = 'Franle'
