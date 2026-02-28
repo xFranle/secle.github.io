@@ -21,6 +21,8 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  author:
+    name: Franle
 
   assets:
     disableHLJS: true
