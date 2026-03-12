@@ -148,7 +148,7 @@ Three factors elevate the severity:
  
 **Issue #2274** — opened December 10, 2025 by `bdmason` — remains open.
  
-**PR #2297** — an attempted fix opened December 16, 2025 — was closed without being merged on December 31, 2025. Reviewer `bdmason` noted during the review: the root cause is almost certainly in `run_coinbase.rs`, pointing to the exact location identified here.
+**PR #2297** — an attempted fix opened December 16, 2025 — was closed without being merged on December 31, 2025. The fix was rejected because it targeted the recycle path (`recycle_alpha.rs`), which contributor `bdmason` confirmed has never been successfully called on-chain. The root cause, per bdmason, is almost certainly in `run_coinbase.rs` — not in the recycle or burn extrinsics.
  
 **PR #2329** — a newer attempt by the same author (`Dairus01`) — is currently open and targets the same issue. It implements changes to make `burn_subnet_alpha` actually decrement `SubnetAlphaOut` using `saturating_sub`. As of March 2026, it is awaiting review and has not been merged or deployed.
  
@@ -160,9 +160,11 @@ No fix is live on the network. The accounting drift continues to accumulate with
  
 ## Conclusion
  
-`burn_subnet_alpha` is a function that was never finished. It was deployed to production as a placeholder, it became the default behavior for subnets that never explicitly changed their configuration, and it has been silently corrupting Bittensor's supply accounting since dTAO launched.
+`burn_subnet_alpha` is a function that was never finished. It was deployed to production as a placeholder, it became the default behavior for subnets that never explicitly changed their configuration, and it has been contributing to a supply accounting problem in Bittensor since dTAO launched.
  
-The Opentensor team is aware. A fix attempt was made and rolled back. A second attempt is pending. The issue remains open.
+The Opentensor team is aware. A fix attempt (PR #2297) was closed because the proposed solution was technically incorrect — the root cause was not in the recycle path but almost certainly in `run_coinbase.rs`, which has gone through many iterations and remains difficult to pin down. A second attempt (PR #2329) is pending. The issue remains open.
+ 
+The honest summary, per the developers themselves: the root cause may be multiple things. The no-op is a confirmed problem. The full picture is still being worked out.
  
 For anyone operating in the Bittensor ecosystem — whether staking, running a subnet, or building on top of the protocol — this is worth tracking. The integrity of price signals, stake weights, and supply metrics all depend on this being resolved correctly.
  
