@@ -1,5 +1,5 @@
 +++
-title = "Bittensor's Silent Accounting Flaw: How a No-Op Function Has Been Inflating Token Supply Since dTAO Launch"
+title = "Bittensor's Silent Accounting Flaw - How a No-Op Function Has Been Inflating Token Supply Since dTAO Launch"
 date = 2026-03-12
 draft = false
 author = "Franle"
