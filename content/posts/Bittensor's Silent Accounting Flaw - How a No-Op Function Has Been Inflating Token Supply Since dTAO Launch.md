@@ -48,8 +48,6 @@ This is a complete no-op. The function accepts two parameters — a subnet ident
  
 The underscore prefix on `_netuid` and `_amount` is a Rust convention that explicitly signals to the compiler that these arguments are intentionally unused. Combined with the `// TODO` comment, this confirms the function was left as a placeholder that was never completed — and was shipped to production anyway.
  
-For contrast, the `recycle_subnet_alpha` function on the same codebase performs actual state changes, returning Alpha to the AMM pool by updating `SubnetAlphaIn` and adjusting pool reserves. The burn path has no equivalent implementation.
- 
 ---
  
 ## Why Subnets Are Affected by Default
