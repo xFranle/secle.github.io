@@ -110,7 +110,7 @@ Under the new policy, this attack could not have succeeded: an unsigned commit i
 
 ## Anatomy of the Backdoor
 
-The compromised file is `src/keyfile.rs` — the core of all wallet encryption and decryption logic in the library. The attacker injected **745 lines of malicious code** blended so seamlessly they appear to be legitimate application telemetry infrastructure.
+The compromised file is [`src/keyfile.rs`](https://github.com/opentensor/btwallet/blob/c2d1a72f50c25cbe220a7210db6475e2a67bee8b/src/keyfile.rs) — the core of all wallet encryption and decryption logic in the library. The attacker injected **745 lines of malicious code** blended so seamlessly they appear to be legitimate application telemetry infrastructure.
 
 ### The hook in decryption paths
 
