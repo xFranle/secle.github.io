@@ -29,7 +29,7 @@ tags = ["bittensor", "blockchain", "security", "supply-chain", "malware", "pypi"
 
 On March 15, 2026, someone with access to Opentensor team GitHub credentials pushed a sophisticated backdoor into the `opentensor/btwallet` repository using the `basfroman` account. The commit was marked **Unverified** — no GPG signature — which immediately sets it apart from every legitimate commit by the team, all of which have historically appeared as Verified.
 
-The CI/CD pipeline automatically built and published version `4.0.2` of `bittensor-wallet` to PyPI. The package remained available for approximately **48 hours** before it was detected and removed on March 17. During that window, any user who installed `bittensor-wallet==4.0.2` and decrypted a wallet would have had their private keys exfiltrated to attacker-controlled servers through three independent channels: HTTPS, dynamically generated domains (DGA), and DNS tunneling.
+A classic Personal Access Token (PAT) of a user with write permissions to the repository was externally compromised. The attackers used it to push the malicious code directly to PyPI, bypassing the CI/CD pipeline entirely. The package remained available for approximately **48 hours** before it was detected and removed on March 17. During that window, any user who installed `bittensor-wallet==4.0.2` and decrypted a wallet would have had their private keys exfiltrated to attacker-controlled servers through three independent channels: HTTPS, dynamically generated domains (DGA), and DNS tunneling.
 
 ---
 
@@ -86,7 +86,7 @@ This matches the classic pattern of an attacker who creates a short-lived branch
 
 The contrast with the legitimate history is stark. Every public commit previously made by `basfroman` appears as **Verified**. This one does not.
 
-The technical explanation is straightforward: the attacker possessed `basfroman`'s **GitHub token** — enough to authenticate to the GitHub API and push code — but did not have the corresponding **GPG private key**, a completely separate secret that lives locally on the developer's machine and is never sent over the network. Without it, GitHub marks the commit Unverified.
+The technical explanation is straightforward: the attacker possessed a classic **Personal Access Token (PAT)** with write permissions to the repository — enough to authenticate to the GitHub API and push code — but did not have the corresponding **GPG private key**, a completely separate secret that lives locally on the developer's machine and is never sent over the network. Without it, GitHub marks the commit Unverified.
 
 > **Important note**: The fact that the commit appears under the name `basfroman` does not mean that person was complicit. In supply-chain attacks, legitimate developer credentials are stolen — via phishing, malware, malicious IDE extensions, or other vectors — and used without the owner's knowledge. The **Unverified** badge is precisely the evidence that an outsider used those credentials without access to the matching GPG key.
 
@@ -344,22 +344,22 @@ All traffic originated from the `python3.12` process. Process-name filtering is 
 - The commit appears under the name `basfroman` and is marked **Unverified** — no GPG signature.
 - The commit does not belong to any branch — it was pushed to an ephemeral branch that was later deleted.
 - The `btwallet` repo shows activity on March 15, 2026, coinciding with the attack.
-- No Release workflow run exists in the public GitHub Actions logs for March 15.
+- No Release workflow run exists in the public GitHub Actions logs for March 15 — confirmed independently by a Socket.dev security researcher who reviewed the logs.
 - The attacker modified `release.yml` to remove the sigstore attestation.
 - All three exfiltration channels were empirically verified by StepSecurity.
 - Socket.dev identified the package with a 0% security score and "Known Malware" label.
 - PR #184 requires GPG signing on all commits as a direct response to the incident.
+- An Opentensor developer confirmed: *"A classic PAT of a user with write permissions was externally compromised. Attackers used it to push the malicious code to PyPI."*
 
 ### Reasoned inference (not officially confirmed)
 
-- **`basfroman`'s GitHub credentials were compromised.** The Unverified commit is direct evidence — the attacker had the token but not the GPG private key. PR #184 reinforces this inference: Opentensor would not have implemented that policy if the vector had not been exactly an unsigned commit using stolen credentials.
-- **The CI/CD pipeline published to PyPI automatically** from the ephemeral branch using GitHub Actions secrets — explaining why no Release workflow run is visible in the public logs (possibly deleted along with the branch).
+- **The compromised PAT belonged to the account appearing in the commit.** The Unverified status is consistent with this — the attacker had the token but not the GPG private key of the account holder. PR #184 reinforces this: Opentensor would not have rushed that policy if the vector had not been exactly an unsigned commit using a stolen token.
 
 ### Still awaiting official confirmation
 
-- How `basfroman`'s credentials were obtained.
+- How the PAT was obtained externally — phishing, malware, malicious IDE extension, or another vector.
 - The total amount of funds affected during the 48-hour exposure window.
-- Opentensor's official postmortem, which has not been published as of the date of this report.
+- Opentensor's full official postmortem, which has not been published as of the date of this report.
 
 ---
 
@@ -369,7 +369,7 @@ The attack on `bittensor-wallet 4.0.2` is a textbook case of a sophisticated sup
 
 The most revealing part is not the backdoor itself — it is the evidence of the entry vector. A single Unverified commit, on a branch that no longer exists, with a message that sounds like a routine fix. The attacker knew exactly what to do to get the code onto PyPI without raising immediate alarms.
 
-Opentensor's response — requiring mandatory GPG signing on all commits — closes that specific vector. The broader lesson applies to any open-source project that high-liquidity ecosystems depend on: GitHub tokens are high-value credentials. If they are compromised without an independent cryptographic second factor such as GPG, the entire software supply-chain trust is silently broken.
+Opentensor's response — requiring mandatory GPG signing on all commits — closes that specific vector. The broader lesson applies to any open-source project that high-liquidity ecosystems depend on: classic PATs are high-value credentials with no expiry and broad scope by default. If compromised without an independent cryptographic second factor such as GPG, the entire software supply-chain trust is silently broken — the attacker can push code under a legitimate developer's name with no visible indication that something is wrong, except for the Unverified badge that almost nobody checks.
 
 When Opentensor publishes its official postmortem, it will confirm or correct the inferences presented in this analysis. Until then, the public evidence tells a sufficiently clear story.
 
