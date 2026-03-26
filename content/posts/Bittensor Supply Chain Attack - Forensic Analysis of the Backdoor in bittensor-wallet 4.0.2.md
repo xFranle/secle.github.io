@@ -66,7 +66,7 @@ Detection: **Socket.dev** was the first to identify and flag the package as malw
 
 ## The Attack Commit: c2d1a72
 
-Forensic investigation surfaced the attack commit directly on GitHub. It is commit `c2d1a72f50c25cbe220a7210db6475e2a67bee8b`, visible in the `opentensor/btwallet` repository but with one distinctive trait: **it does not belong to any branch**.
+Forensic investigation surfaced the attack commit directly on GitHub. It is commit [`c2d1a72f50c25cbe220a7210db6475e2a67bee8b`](https://github.com/opentensor/btwallet/tree/c2d1a72f50c25cbe220a7210db6475e2a67bee8b), visible in the `opentensor/btwallet` repository but with one distinctive trait: **it does not belong to any branch**.
 
 ![unverified-1](https://i.ibb.co/SXtkpLM9/unverifed-1.png)
 
@@ -315,7 +315,7 @@ All traffic originated from the `python3.12` process. Process-name filtering is 
 
 **Package removal**: They yanked `bittensor-wallet==4.0.2` from PyPI the same day it was detected, eliminating the possibility of new installations.
 
-**PR #184 — Mandatory GPG signing**: Detailed in the section [PR #184: Indirect Confirmation](#pr-184-indirect-confirmation). This policy closes the exact vector that enabled the attack.
+**PR #184 — Mandatory GPG signing**: Detailed in the section [PR #184: Indirect Confirmation](https://github.com/opentensor/btwallet/pull/184). This policy closes the exact vector that enabled the attack.
 
 ---
 
